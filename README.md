@@ -34,13 +34,6 @@ ___
 </table>
 
 
-___
-
-###### Discover tutorials for the latest Bootstrap 5 and learn how to create templates yourself.
-
-**[>> Click here for a written tutorial](https://mdbootstrap.com/docs/standard/getting-started/quick-start/)**
-
-
 <table>
   <tbody>
     <tr>
